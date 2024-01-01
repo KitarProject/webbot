@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"id": "1191188127839174736",
+		"prefix": "!",
+		"secret": "BkPR7v55wUfXDj8l__YlnsWf8NGnNGNn",
+		"status": "dnd",
+		"url": "",
+		"production": true
+	},
+	"app": {
+		"port": 6969
+	}
+}
